@@ -12,7 +12,7 @@ This project is a responsive portfolio website built with HTML, Tailwind CSS, an
 
 ## Screenshots
 
-![Home](https://i.ibb.co/714xdx1/tailwind-1.png)
+![Home](https://i.ibb.co/KKqH1Zf/tailwind-home.png)
 - Home Section
 
 ![About](https://i.ibb.co/d79ZDJz/tailwind-2.png)
